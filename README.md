@@ -1,8 +1,8 @@
 # INSTALLING BOOTSTRAP IN ANGULAR 
 
-### ** STEP 1 **:  npm install bootstrap 
+  **STEP 1**:  npm install bootstrap 
 
-### ** STEP 2 **:   Go To Angular.json and add 
+ **STEP 2**:   Go To Angular.json and add 
 
 ***typescript 
 
@@ -10,7 +10,7 @@
 
 ***
 
-### ** STEP 3 **:   Now go to styles.css add this 
+**STEP 3**:   Now go to styles.css add this 
 
 ***css
 
