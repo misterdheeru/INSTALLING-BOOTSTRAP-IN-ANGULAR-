@@ -22,8 +22,7 @@ Open your `styles.css` file and add the following line to import the Bootstrap C
 ```css
 @import 'bootstrap/dist/css/bootstrap.css';
 ```
-
-By following these steps, Bootstrap will be integrated into your Angular project.
-```
+ 
+ 
 
 Save this content in a file named `README.md`.
