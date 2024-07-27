@@ -1,6 +1,5 @@
-Here's the content formatted as a `README.md` file:
-
-```markdown
+ 
+ 
 # Installing Bootstrap in Angular
 
 ## Step 1: Install Bootstrap
